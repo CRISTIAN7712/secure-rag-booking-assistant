@@ -106,3 +106,12 @@ pytest -m integration
 ## Estructura
 
 La configuración está en `src/config`, PostgreSQL en `src/database`, modelos en `src/models`, embeddings en `src/embeddings`, persistencia en `src/repositories`, casos de uso en `src/services`, HTTP en `src/api`, SQL en `sql`, operaciones en `scripts` y pruebas en `tests`.
+
+---
+## 👨‍💻 Autor
+
+**Ing. Cristian Díaz**
+
+<p align="center">
+  <img width="300" src="https://i.imgur.com/a7YBcsp.png">
+</p>
