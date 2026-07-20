@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Chat RAG</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app-shell">
+    <header>
+      <h1>Chat con tus documentos</h1>
+      <p>PostgreSQL + pgvector + OpenRouter Free</p>
+      <span id="status" class="status">Comprobando backend…</span>
+    </header>
+    <section id="chat" aria-live="polite">
+      <div class="msg assistant">Hola. Puedes preguntarme sobre los documentos, agendar, consultar, reprogramar o cancelar una cita.</div>
+    </section>
+    <form id="form">
+      <textarea id="input" rows="2" placeholder="Escribe tu pregunta…" required></textarea>
+      <button type="submit">Enviar</button>
+    </form>
+  </main>
+  <aside class="booking-panel">
+    <h2>Agendar una cita</h2>
+    <p>Consulta horarios simulados y reserva en tiempo real.</p>
+    <form id="booking-form">
+      <label>Servicio<select id="service" required><option value="">Cargando…</option></select></label>
+      <label>Fecha<input id="appointment-date" type="date" required></label>
+      <label>Horario<select id="slot" required><option value="">Selecciona servicio y fecha</option></select></label>
+      <label>Nombre<input id="customer-name" type="text" minlength="2" required></label>
+      <label>Correo<input id="customer-email" type="email" required></label>
+      <label>Notas<textarea id="notes" rows="2" placeholder="Opcional"></textarea></label>
+      <button type="submit">Confirmar cita</button>
+    </form>
+    <div id="booking-result" aria-live="polite"></div>
+  </aside>
+  <script src="app.js" defer></script>
+</body>
+</html>

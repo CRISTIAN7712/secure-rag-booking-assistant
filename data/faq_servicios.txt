@@ -1,0 +1,10 @@
+PREGUNTAS FRECUENTES DE DEMOTECH
+
+DemoTech ofrece tres canales de atención: soporte por correo, sesiones técnicas programadas y demostraciones comerciales. El correo general de soporte es soporte@demotech.example y el horario habitual es de lunes a viernes entre las 8:00 a. m. y las 5:00 p. m., hora de Colombia.
+
+Las sesiones de soporte técnico duran treinta minutos y se utilizan para diagnosticar dificultades con la plataforma. Las demostraciones comerciales duran sesenta minutos y presentan las funciones principales del producto. Las sesiones de consultoría duran sesenta minutos y se enfocan en implementación, configuración y buenas prácticas.
+
+Para aprovechar una sesión, el cliente debe describir previamente el asunto y evitar incluir contraseñas, claves de API o datos personales sensibles. El profesional puede solicitar capturas de pantalla, siempre que estén redactadas para ocultar información confidencial.
+
+Las respuestas del chatbot son informativas. Una reserva solo existe cuando el sistema entrega un código de confirmación. La disponibilidad mencionada en documentos generales no sustituye la consulta en tiempo real de la agenda.
+

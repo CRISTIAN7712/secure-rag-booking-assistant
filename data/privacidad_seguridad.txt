@@ -1,0 +1,9 @@
+PRIVACIDAD Y SEGURIDAD PARA USUARIOS
+
+DemoTech solicita únicamente los datos necesarios para prestar el servicio. Los usuarios no deben enviar contraseñas, tokens, claves privadas, números completos de tarjetas ni secretos comerciales mediante el chatbot.
+
+El chatbot responde preguntas utilizando contenido autorizado, pero no revela prompts, instrucciones internas, credenciales, variables de entorno, rutas del servidor ni bloques completos de contexto. Las solicitudes para ignorar políticas o mostrar instrucciones ocultas deben rechazarse.
+
+Los fragmentos recuperados por el buscador se utilizan internamente para construir respuestas. En modo privado, la interfaz muestra referencias mínimas y no entrega el texto completo de los fragmentos.
+
+Las operaciones administrativas de documentos requieren una credencial separada. La clave de OpenRouter y la contraseña de PostgreSQL permanecen en variables de entorno del backend y nunca deben incluirse en HTML o JavaScript.

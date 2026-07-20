@@ -1,0 +1,59 @@
+MANUAL DE LA EMPRESA DEMO
+Versión 1.0
+
+1. INFORMACIÓN GENERAL
+
+La empresa DemoTech desarrolla soluciones de software para pequeñas y medianas empresas. Su oficina principal está ubicada en Bogotá, Colombia. El horario de atención al cliente es de lunes a viernes, de 8:00 a. m. a 5:00 p. m., hora de Colombia.
+
+Los clientes pueden comunicarse con soporte mediante el correo soporte@demotech.example. El tiempo objetivo para responder una solicitud normal es de ocho horas laborales. Los incidentes críticos, definidos como interrupciones completas del servicio, tienen un tiempo objetivo de respuesta de una hora.
+
+2. PLANES DEL SERVICIO
+
+El plan Básico cuesta 20 dólares mensuales. Incluye hasta cinco usuarios, 10 GB de almacenamiento y soporte por correo electrónico.
+
+El plan Profesional cuesta 60 dólares mensuales. Incluye hasta veinticinco usuarios, 100 GB de almacenamiento, soporte prioritario y acceso a reportes avanzados.
+
+El plan Empresarial tiene un precio personalizado. Incluye usuarios ilimitados, almacenamiento configurable, soporte disponible las veinticuatro horas y un administrador de cuenta dedicado.
+
+3. POLÍTICA DE CANCELACIÓN
+
+Los clientes pueden cancelar su suscripción desde el panel de administración. La cancelación se hace efectiva al terminar el período de facturación vigente. DemoTech no realiza reembolsos por períodos parcialmente utilizados, excepto cuando la legislación aplicable lo exija.
+
+Después de la cancelación, los datos permanecen disponibles durante treinta días. Durante ese plazo, el cliente puede exportarlos desde el panel. Una vez transcurridos los treinta días, los datos se eliminan de los sistemas activos.
+
+4. SEGURIDAD
+
+Todas las comunicaciones con la plataforma utilizan cifrado TLS. Las contraseñas se almacenan mediante algoritmos de hash seguros y nunca se guardan como texto plano. DemoTech realiza copias de seguridad diariamente y conserva esas copias durante catorce días.
+
+Se recomienda que todos los usuarios activen la autenticación de dos factores. En el plan Empresarial, los administradores pueden exigir autenticación de dos factores para todos los miembros de la organización.
+
+5. RECUPERACIÓN DE CONTRASEÑA
+
+Para recuperar una contraseña, el usuario debe seleccionar la opción "Olvidé mi contraseña" en la pantalla de inicio de sesión. El sistema enviará un enlace al correo registrado. El enlace es válido durante treinta minutos y solamente puede utilizarse una vez.
+
+Si el usuario no recibe el mensaje, debe revisar la carpeta de correo no deseado y confirmar que está utilizando la dirección registrada. Si el problema continúa, debe contactar a soporte.
+
+6. EXPORTACIÓN DE DATOS
+
+Los administradores pueden exportar los datos en formato CSV o JSON desde la sección Configuración, opción Exportar datos. Las exportaciones pequeñas se descargan inmediatamente. Para exportaciones grandes, el sistema envía un enlace de descarga por correo electrónico cuando el archivo está preparado.
+
+Los enlaces de descarga de exportaciones son válidos durante veinticuatro horas. Por seguridad, no deben compartirse con personas que no estén autorizadas para acceder a los datos de la organización.
+
+7. DISPONIBILIDAD Y MANTENIMIENTO
+
+La meta de disponibilidad mensual del servicio es del 99,9 %. Los mantenimientos programados se anuncian con al menos cuarenta y ocho horas de anticipación. Siempre que sea posible, se realizan los domingos entre la 1:00 a. m. y las 3:00 a. m., hora de Colombia.
+
+Las ventanas de mantenimiento anunciadas no se consideran interrupciones imprevistas. Ante un incidente, DemoTech publica actualizaciones periódicas en su página de estado hasta que el servicio queda restablecido.
+
+8. PREGUNTAS SUGERIDAS PARA PROBAR EL CHATBOT
+
+- ¿Cuál es el horario de atención al cliente?
+- ¿Cuánto cuesta el plan Profesional y qué incluye?
+- ¿Cuánto tiempo conserva DemoTech los datos después de cancelar?
+- ¿Cuál es el tiempo de respuesta para un incidente crítico?
+- ¿Durante cuánto tiempo funciona el enlace para recuperar la contraseña?
+- ¿En qué formatos se pueden exportar los datos?
+- ¿Cuándo se realizan normalmente los mantenimientos?
+- ¿Qué medidas de seguridad utiliza la plataforma?
+
+FIN DEL DOCUMENTO

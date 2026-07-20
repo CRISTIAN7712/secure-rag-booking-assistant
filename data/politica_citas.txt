@@ -1,0 +1,10 @@
+POLÍTICA DE CITAS DE DEMOTECH
+
+Las citas se muestran en la zona horaria de Colombia. Los horarios disponibles se consultan en tiempo real y pueden cambiar si otro usuario completa una reserva antes de la confirmación.
+
+Para crear una cita, el usuario selecciona servicio, fecha y horario, y proporciona nombre y correo electrónico. Al finalizar recibe un código único. Ese código debe conservarse de forma privada porque permite identificar la reserva.
+
+Una cita puede consultarse, cancelarse o reprogramarse desde el chatbot. Las reprogramaciones conservan el código original y solo se aplican después de una confirmación explícita. Al cancelar, el horario vuelve a estar disponible para otros usuarios.
+
+Se recomienda cancelar o reprogramar con al menos veinticuatro horas de anticipación. DemoTech puede modificar esta política cuando existan requisitos operativos o legales.
+
